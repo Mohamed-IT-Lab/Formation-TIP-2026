@@ -27,7 +27,7 @@ Sur Internet, on n'envoie pas un fichier d'un seul coup. On le découpe en petit
 * Chaque paquet a une adresse de départ et une adresse d'arrivée.
 * Ils peuvent prendre des routes différentes, mais ils arrivent tous au même endroit pour être remontés.
 
-## 🚦 Résumé du code de la route informatique :
+## Résumé du code de la route informatique :
 | Élément Informatique | Équivalent Routier |
 | :--- | :--- |
 | **Carte Réseau** | Le moteur de la voiture |
