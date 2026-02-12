@@ -1,4 +1,4 @@
-# 🌐 Cours 01 : Introduction au Réseau
+# Cours 01 : Introduction au Réseau
 
 ## Pourquoi et Comment ?
 
@@ -37,7 +37,7 @@ Pour qu'un PC communique, il lui faut obligatoirement ces trois informations :
 2. **Le Masque** : Pour savoir dans quel réseau on est (ex: `255.255.255.0`).
 3. **La Passerelle (Gateway)** : C'est l'adresse de la Box ou du Routeur. C'est la "porte de sortie" pour aller sur Internet. 
 
-> **Définition** : Une passerelle est un élément matériel ou logiciel de réseau utilisé dans les réseaux de télécommunications qui permet aux données de circuler d'un réseau distinct à un autre.
+ **Définition** : Une passerelle est un élément matériel ou logiciel de réseau utilisé dans les réseaux de télécommunications qui permet aux données de circuler d'un réseau distinct à un autre.
 
 ### 5. Les Classes (La taille de l'entreprise)
 On choisit la classe selon le nombre de machines dont on a besoin :
@@ -48,16 +48,16 @@ On choisit la classe selon le nombre de machines dont on a besoin :
 | **Classe B** | `255.255.0.0` | 65 000 | Universités, grandes usines. |
 | **Classe C** | `255.255.255.0` | 254 | PME, Maisons, Bureaux (Le plus courant). |
 
----
 
-### 🧠 Exercice de réflexion
+
+### Exercice de réflexion
 Tu arrives dans une entreprise. Le PC a l'IP `192.168.1.10` et l'imprimante a l'IP `192.168.2.50`. Le masque est `255.255.255.0`. **Est-ce que ça va imprimer ?**
 
 **Réponse :** Non, car ils ne sont pas dans la même 'rue' (l'un est dans la rue `192.168.1`, l'autre dans la rue `192.168.2`).
 
----
 
-### 🛠️ Pratique : Voir ça "en vrai" sur ton PC
+
+### Pratique : Voir ça "en vrai" sur ton PC
 1. Touche **Windows + R**.
 2. Taper **cmd** puis Entrée.
 3. Taper **ipconfig**.
