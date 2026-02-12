@@ -1,8 +1,7 @@
-# ⌨️ Terminal, Invite de commande et Processus informatique
+# Terminal, Invite de commande et Processus informatique
 
 En informatique, on passe souvent de l'interface graphique (GUI) aux lignes de commande. Voici comment s'y retrouver et comprendre comment la machine réagit.
 
----
 
 ## I. Les outils de ligne de commande
 
@@ -20,7 +19,7 @@ Microsoft a sorti récemment une application appelée **Windows Terminal**.
 * C'est une application "conteneur" qui peut ouvrir plusieurs onglets en même temps : l'Invite de commande (CMD), PowerShell, et même du Linux via **WSL**.
 * ** **WSL** signifie *Windows Subsystem for Linux* (Sous-système Windows pour Linux).
 
----
+
 
 ## II. Les étapes du processus informatique
 
