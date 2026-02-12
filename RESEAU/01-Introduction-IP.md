@@ -6,7 +6,7 @@
 Dans une entreprise, le réseau sert à trois choses principales :
 * **Partager** : Accéder à un serveur de fichiers ou une imprimante commune.
 * **Communiquer** : Envoyer des mails, utiliser Teams ou accéder à Internet.
-* **Sécuriser** : Faire en sorte que tout le monde n'ait pas accès à tout (ex: isoler un utilisateur ou une salle de classe).
+* **Sécuriser** : Faire en sorte que tout le monde n'ait pas accès à tout (ex: isoler Amel (secrétariat) de la salle de classe).
 
 > **Cas concret :** On t'appelle car un utilisateur ne peut plus imprimer. Si tu ne comprends pas le réseau, tu ne sais pas si c'est l'imprimante qui est en panne, le câble qui est débranché, ou si l'adresse IP a changé.
 
