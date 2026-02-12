@@ -1,4 +1,4 @@
-# 🛣️ Cours 00 : Le Réseau, c'est comme le Code de la Route
+# Cours 00 : Le Réseau, c'est comme le Code de la Route
 
 Pour comprendre comment les données voyagent d'un PC à un serveur, il suffit de regarder comment une voiture voyage d'une maison à un magasin.
 
@@ -36,5 +36,4 @@ Sur Internet, on n'envoie pas un fichier d'un seul coup. On le découpe en petit
 | **Routeur** | Le panneau de direction / GPS |
 | **Ping** | "Klaxonner" pour voir si quelqu'un répond |
 
----
-*💡 "En réseau, si on ne sait pas où on va, on demande à la passerelle !" - Mohamed IT Lab*
+
