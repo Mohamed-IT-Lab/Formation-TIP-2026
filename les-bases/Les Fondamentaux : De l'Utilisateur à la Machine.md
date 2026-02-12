@@ -1,7 +1,5 @@
 # Terminal, Invite de commande et Processus informatique
 
-En informatique, on passe souvent de l'interface graphique (GUI) aux lignes de commande. Voici comment s'y retrouver et comprendre comment la machine réagit.
-
 
 ## I. Les outils de ligne de commande
 
