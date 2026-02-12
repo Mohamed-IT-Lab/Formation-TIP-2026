@@ -1,7 +1,7 @@
 # Terminal, Invite de commande et Processus informatique
 
 
-## I. Les outils de ligne de commande
+##  Les outils de ligne de commande
 
 ### 1. L'Invite de commande (Command Prompt / CMD)
 Sous Windows, le programme classique (`cmd.exe`) s'appelle l'**Invite de commande**.
@@ -19,14 +19,16 @@ Microsoft a sorti récemment une application appelée **Windows Terminal**.
 
 
 
-## II. Les étapes du processus informatique
+## Les étapes du processus informatique
 
 Au niveau le plus élémentaire, tous les ordinateurs fonctionnent selontrois étapes :
 
 
-| **1. L'Entrée** | **Input** | Tout commence par une action de l'utilisateur (clic souris, touche clavier, écran tactile). |
-| **2. Le Traitement** | **Processing** | Les composants internes prennent le relais. L'OS traduit votre demande et ordonne au matériel de l'exécuter. |
-| **3. La Sortie** | **Output** | C'est le résultat concret (affichage à l'écran, impression d'un document, son dans les enceintes). |
+| **1. L'Entrée** | **Input** | Tout commence par une action de l'utilisateur (clic souris, touche clavier, écran tactile). 
+
+| **2. Le Traitement** | **Processing** | Les composants internes prennent le relais. L'OS traduit votre demande et ordonne au matériel de l'exécuter.
+
+| **3. La Sortie** | **Output** | C'est le résultat concret (affichage à l'écran, impression d'un document, son dans les enceintes).
 
 
 
