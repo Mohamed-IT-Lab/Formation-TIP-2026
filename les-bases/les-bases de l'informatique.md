@@ -1,4 +1,4 @@
-##Les bases de l'informatique
+# Les bases de l'informatique :
 
 Un ordinateur moderne repose sur l'interaction de trois éléments majeurs. En tant que technicien, savoir identifier quelle couche est en panne est la base du métier.
 
