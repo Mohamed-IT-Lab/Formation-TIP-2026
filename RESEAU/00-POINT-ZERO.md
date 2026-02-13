@@ -1,4 +1,4 @@
-# Cours 00 : Le Réseau, c'est comme le Code de la Route
+# Le Réseau, c'est comme le Code de la Route
 
 Pour comprendre comment les données voyagent d'un PC à un serveur, il suffit de regarder comment une voiture voyage d'une maison à un magasin.
 
