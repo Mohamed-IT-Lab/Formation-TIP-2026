@@ -1,4 +1,4 @@
-# Cours 01 : Introduction au Réseau
+# Introduction au Réseau
 
 ## Pourquoi et Comment ?
 
